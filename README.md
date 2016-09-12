@@ -11,7 +11,7 @@ Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten
 Deze opdracht moet aan de volgende functionele eisen voldoen:
 * Als je de HTML pagina bekijkt in een browservenster van 1349 x 667 pixels ziet de pagina er 100% uit zoals het ontwerp (chrome heeft hier een handige extensie voor: [window resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh)); het is dus een exacte, 1-op-1, pixel-voor-pixel kopie van het ontwerp maar dan in HTML/CSS
 * Alle gebruikte lettertypes kloppen met het ontwerp
-* De posities van de verschillende onderdelen van de pagina kloppen met het ontwerp
+* De posities van de verschillende onderdelen van de pagina kloppen met het ontwerp (Chrome heeft hier een handige plugin voor: [Pixel Perfect](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=nl) waarmee je het  ontwerp halftransparant "over je pagina heenlegt", je ziet dan precies of alles op de juiste plek staat)
 * Je maakt zelf pagina's voor HOME, FEATURES, PAGES, PORTFOLIO, BLOG en CONTACT en je geeft deze pagina's een bijpassend ontwerp (wees creatief!)
 
 ###Technische eisen
