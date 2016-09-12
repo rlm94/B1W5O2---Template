@@ -3,6 +3,8 @@
 ## Inleiding
 In je werk als developer krijg je soms te maken met vormgevers die een website hebben gemaakt in Photoshop. Aan jou de taak om van dit ontwerp HTML en CSS te maken zodat de pagina op alle apparaten goed weergegeven kan worden.
 
+![Ontwerp](https://github.com/davinci-ao/template/blob/master/voorbeeld/ontwerp.png)
+
 ###Functionele eisen
 Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten. Functionele eisen mogen nooit van technische aard zijn! Ieder persoon moet begrijpen welke functionaliteit de opdracht moet bevatten, ongeacht kennis niveau.
 
