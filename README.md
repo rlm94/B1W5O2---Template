@@ -18,4 +18,5 @@ Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet 
 
 Wie ben ik moet aan de volgende technische eisen voldoen:
 * Het document is geschreven in HTML5
-* Het gebruikte font voor de menuitems "home", "features" enzovoorts is: Roboto 15px en de kleur is `color: rgba(255, 255, 255, 0.8);`
+* Het gebruikte font voor de menuitems (zoals "home", "features") is: `font-family: 'Roboto', sans-serif;` en de kleur is `color: rgba(255, 255, 255, 0.8);`
+* De gebruikte afbeelding bij elk menuitem is gemaakt met Font Awesome
