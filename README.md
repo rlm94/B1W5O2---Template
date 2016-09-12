@@ -9,6 +9,7 @@ In je werk als developer krijg je soms te maken met vormgevers die een website h
 Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten. Functionele eisen mogen nooit van technische aard zijn! Ieder persoon moet begrijpen welke functionaliteit de opdracht moet bevatten, ongeacht kennisniveau.
 
 Deze opdracht moet aan de volgende functionele eisen voldoen:
+* Je gebruikt voor deze opdracht alleen code die je zelf hebt geschreven (geen copy/paste);
 * Als je de HTML pagina bekijkt in een browservenster van 1349 x 667 pixels ziet de pagina er 100% uit zoals het ontwerp (chrome heeft hier een handige extensie voor: [window resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh)); het is dus een exacte, 1-op-1, pixel-voor-pixel kopie van het ontwerp maar dan in HTML/CSS
 * Alle gebruikte lettertypes kloppen met het ontwerp
 * De posities van de verschillende onderdelen van de pagina kloppen met het ontwerp (Chrome heeft hier een handige plugin voor: [Pixel Perfect](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=nl) waarmee je het  ontwerp halftransparant "over je pagina heenlegt", je ziet dan precies of alles op de juiste plek staat)
