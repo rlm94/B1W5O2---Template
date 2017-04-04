@@ -5,7 +5,7 @@ In je werk als developer krijg je soms te maken met vormgevers die een website h
 
 ![Ontwerp](https://github.com/davinci-ao/template/blob/master/voorbeeld/ontwerp.png)
 
-###Functionele eisen
+### Functionele eisen
 Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten. Functionele eisen mogen nooit van technische aard zijn! Ieder persoon moet begrijpen welke functionaliteit de opdracht moet bevatten, ongeacht kennisniveau.
 
 Deze opdracht moet aan de volgende functionele eisen voldoen:
@@ -15,7 +15,7 @@ Deze opdracht moet aan de volgende functionele eisen voldoen:
 * De posities van de verschillende onderdelen van de pagina kloppen met het ontwerp (Chrome heeft hier een handige plugin voor: [Pixel Perfect](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=nl) waarmee je het  ontwerp halftransparant "over je pagina heenlegt", je ziet dan precies of alles op de juiste plek staat)
 * Je maakt zelf pagina's voor HOME, FEATURES, PAGES, PORTFOLIO, BLOG en CONTACT en je geeft deze pagina's een bijpassend ontwerp (wees creatief!)
 
-###Technische eisen
+### Technische eisen
 Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet worden geschreven. 
 
 Deze opdracht moet aan de volgende technische eisen voldoen:
